@@ -6,7 +6,6 @@
 1. Simulador WOKWI, dentro del simulador se hará uso de lossiguientes componentes:
 - Cableado
 - Tarjeta ```ESP32```
-- Sensor ```DHT22```
 - ```LCD 16x2 I2C```
 - ```HC-SR04 ULTRASONIC DISTANCE SENSOR```
 - Libreria ```DHT sensor library for ESPx```
