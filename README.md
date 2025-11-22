@@ -118,6 +118,7 @@ lcd.setCursor(0, 1);
 1. Iniciar simulación con el botón de "PLAY"
 2. Visualizar los datos que se mostrarán en LCD
 3. Descargar valores
+![](https://github.com/EfrenQA/Reporte-3/blob/main/simulaci%C3%B3n%203.png?raw=true)
 ## Resultados
 Al finalizar cada paso se podrá obtener datos desde la simulación del LCD
 ![](https://github.com/EfrenQA/Reporte-3/blob/main/simulaci%C3%B3n%203.png?raw=true)
